@@ -20,7 +20,7 @@ The project uses Excel, SQL, and Power BI to clean, analyze, visualize, and comm
 - Identify high-risk customer segments
 - Provide actionable business insights
 
-🔍 Key Insights
+ Key Insights
 
 1. Contract Type
 
